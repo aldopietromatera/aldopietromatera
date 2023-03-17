@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently studying Computer Engineering @ PoliTO, following the Artificial Intelligence & Data Analytics track.
+I'm currently studying Computer Engineering @ PoliTO, following the Artificial Intelligence & Data Analytics track. 💻
 
 <!--
 **aldopietromatera/aldopietromatera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
