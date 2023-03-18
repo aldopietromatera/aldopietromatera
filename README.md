@@ -33,6 +33,10 @@ I'm currently studying Computer Engineering @ PoliTO, following the Artificial I
     rel="noreferrer"> <img
       src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
       alt="react" width="40" height="40" /> </a>
+      <a href="https://www.rust-lang.org/" target="_blank"
+    rel="noreferrer"> <img
+      src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg"
+      alt="rust" width="40" height="40" /> </a>
       
   </p>
 <br>
