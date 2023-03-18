@@ -2,6 +2,8 @@
 
 I'm currently studying Computer Engineering @ PoliTO, following the Artificial Intelligence & Data Analytics path. 💻
 
+<!-- LANGUAGES AND TOOLS  -->
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"
