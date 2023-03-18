@@ -1,11 +1,10 @@
-# Hi, I'm Aldo Pietromatera 👋
-
-I'm currently studying Computer Engineering @ PoliTO, following the Artificial Intelligence & Data Analytics path. 💻
-
+<h1 align="center">Hi, I'm Aldo Pietromatera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center"> I'm currently studying Computer Engineering @ PoliTO, following the Artificial Intelligence & Data Analytics path. 💻 </p>
+<br>
 <!-- LANGUAGES AND TOOLS  -->
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<span align = "center" >
+<h3>Languages and Tools:</h3>
+<p>
   <a href="https://www.cprogramming.com/" target="_blank"
     rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
       alt="c" width="40" height="40" title="C" /> </a>
@@ -36,9 +35,9 @@ I'm currently studying Computer Engineering @ PoliTO, following the Artificial I
       <a href="https://www.rust-lang.org/" target="_blank"
     rel="noreferrer"> <img
       src="http://rust-lang.org/logos/rust-logo-64x64.png"
-      alt="rust" width="40" height="40" title="Rust" /> </a>
-      
+      alt="rust" width="40" height="40" title="Rust" /> </a>   
   </p>
+ </span>
 <br>
 
 
