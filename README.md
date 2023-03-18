@@ -35,7 +35,7 @@ I'm currently studying Computer Engineering @ PoliTO, following the Artificial I
       alt="react" width="40" height="40" /> </a>
       <a href="https://www.rust-lang.org/" target="_blank"
     rel="noreferrer"> <img
-      src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg"
+      src="http://rust-lang.org/logos/rust-logo-64x64.png"
       alt="rust" width="40" height="40" /> </a>
       
   </p>
