@@ -3,6 +3,9 @@
 <p align="center"> Selected for a Double Degree program @ Telecom Paris. Focusing on Data Science, Markets, Organizations and Strategies. </p>
 <br>
 
+<p align="center"> You can access my portfolio <a href="https://aldopietromatera.github.io/portfolio/" target="_blank">here</a></p>
+
+
 <!-- LANGUAGES AND TOOLS  -->
 <span align = "center" >
 <h3>Languages and Tools:</h3>
