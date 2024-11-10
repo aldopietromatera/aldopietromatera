@@ -3,7 +3,7 @@
 <p align="center"> Selected for a Double Degree program @ Telecom Paris. Focusing on Data Science, Markets, Organizations and Strategies. </p>
 <br>
 
-<p align="center"> You can access my portfolio <a href="https://aldopietromatera.github.io/portfolio/" target="_blank">HERE</a>.</p>
+<p align="center"> You can access my portfolio <a href="https://aldopietromatera.github.io/portfolio/" target="_blank" >HERE</a>.</p>
 
 
 <!-- LANGUAGES AND TOOLS  -->
